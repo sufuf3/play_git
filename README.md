@@ -15,9 +15,9 @@ Print out the history of commits, showing where your branch pointers are and how
 * 98ca9 initial commit of my project
 ```
 ## git reset
-- git reset -- [file]  
- - git add test.txt  
- - git status  
- - git reset -- test.txt  
- - git status  
+- `git reset -- [file]`  
+  - `git add test.txt`  
+  - `git status`  
+  - `git reset -- test.txt`  
+  - `git status`  
 ref: https://git-scm.com/book/en/v2/  
